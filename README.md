@@ -1,0 +1,1 @@
+# EarnzCoin-Windows-Wallet-v1.1.0.2
